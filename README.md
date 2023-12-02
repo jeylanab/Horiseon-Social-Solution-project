@@ -1,2 +1,29 @@
 # Horiseon-Social-Solution-project
-Make a pre-existing website accessible on internet
+
+
+## Description 
+
+This project mainly focuses on enhancing the existing website to improve its search engine capability.
+Web accessibility is an increasingly important consideration for businesses. It ensures that disabled people can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website
+
+
+## Installation
+
+order to run this program on a computer we need HTML and a CSS file that is linked by the correct path 
+there are other resources such us images and icons which are kept in the asset folder.
+
+## Usage
+
+you can access the git repo link here  https://github.com/jeylanab/Horiseon-Social-Solution-project and url of the hosted website https://jeylanab.github.io/Horiseon-Social-Solution-project/
+
+
+
+## Credits
+
+   1.https://www.w3schools.com/html/html5_semantic_elements.asp 
+   2. https://git-scm.com/docs/git
+
+
+## License
+
+MIT licensed
